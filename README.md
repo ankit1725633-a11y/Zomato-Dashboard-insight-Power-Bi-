@@ -1,4 +1,4 @@
-# 🍽️ Zomato Dashboard Insights – Power BI
+# 🍽️ Zomato Dashboard – Power BI
 
 This document highlights key insights typically derived from a **Zomato Power BI dashboard**, focusing on customer behavior, restaurant performance, order trends, and delivery patterns. The goal is to provide a clear, human-readable summary that reflects real-world analysis.
 
